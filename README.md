@@ -1,7 +1,7 @@
 # Titanic_DataAnalysis
 ![Logo](/images/tt.png)
 
-Using Pandas and Numpy, i performed basic data analysis on the deathtoll of the Titanic. Here i discovered as to how many people died, which statusclass suffered the most, which gender suffered the most and many other information.
+Using Pandas and Numpy, I performed basic data analysis on the deathtoll of the Titanic. Here I discovered as to how many people died, which statusclass suffered the most, which gender suffered the most and many other information.
 
 # Interpretation
 * The percentage of survivors of the Titanic were only about 38%
